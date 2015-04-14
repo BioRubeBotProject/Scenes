@@ -5,6 +5,8 @@ Project("{119F407D-F721-C7AC-1358-0D2C42F8E812}") = "Jeremy Assets", "Assembly-C
 EndProject
 Project("{119F407D-F721-C7AC-1358-0D2C42F8E812}") = "Jeremy Assets", "Assembly-CSharp.csproj", "{F3BB63B2-2939-0078-4433-1308A9857CF8}"
 EndProject
+Project("{119F407D-F721-C7AC-1358-0D2C42F8E812}") = "Jeremy Assets", "Assembly-CSharp-Editor.csproj", "{FB24E414-71D7-B2E4-2E9E-187441EBDF21}"
+EndProject
 Project("{119F407D-F721-C7AC-1358-0D2C42F8E812}") = "Jeremy Assets", "Assembly-UnityScript-firstpass.unityproj", "{F07AACFB-0EBF-CF17-C904-8EDCA584C2B5}"
 EndProject
 Project("{119F407D-F721-C7AC-1358-0D2C42F8E812}") = "Jeremy Assets", "Assembly-UnityScript.unityproj", "{C158470D-0204-8468-7146-E57081A9C479}"
@@ -23,6 +25,10 @@ Global
 		{F3BB63B2-2939-0078-4433-1308A9857CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3BB63B2-2939-0078-4433-1308A9857CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3BB63B2-2939-0078-4433-1308A9857CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB24E414-71D7-B2E4-2E9E-187441EBDF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB24E414-71D7-B2E4-2E9E-187441EBDF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB24E414-71D7-B2E4-2E9E-187441EBDF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB24E414-71D7-B2E4-2E9E-187441EBDF21}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F07AACFB-0EBF-CF17-C904-8EDCA584C2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F07AACFB-0EBF-CF17-C904-8EDCA584C2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F07AACFB-0EBF-CF17-C904-8EDCA584C2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -35,7 +41,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-			GlobalSection(MonoDevelopProperties) = preSolution
+		GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
