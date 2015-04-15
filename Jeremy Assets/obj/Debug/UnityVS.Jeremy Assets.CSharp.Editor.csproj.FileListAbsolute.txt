@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\jyparker\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
 C:\Users\jyparker\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
 C:\Users\jyparker\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
@@ -42,3 +43,42 @@ C:\Users\jyparker\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy 
 C:\Users\jyparker\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\UnityVS.Jeremy Assets.CSharp.Editor.csprojResolveAssemblyReference.cache
 C:\Users\jyparker\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\Assembly-CSharp-Editor.dll
 C:\Users\jyparker\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\Assembly-CSharp-Editor.pdb
+=======
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\UnityVS.Jeremy Assets.CSharp.Editor.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-UnityScript.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Pathfinding.JsonFx.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.BB10.Extensions.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.LinuxStandalone.Extensions.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.Metro.Extensions.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.OSXStandalone.Extensions.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.WebGL.Extensions.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.WP8.Extensions.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.Graphs.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.Android.Extensions.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.WP8.Extensions.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.Metro.Extensions.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.BB10.Extensions.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.WebGL.Extensions.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.LinuxStandalone.Extensions.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.WindowsStandalone.Extensions.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.OSXStandalone.Extensions.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\Assembly-CSharp-Editor.pdb
+>>>>>>> 22e297659be4c74786c7599e41b707305381885f

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0"?>
 <doc>
 	<assembly>
@@ -6,3 +7,16 @@
 	<members>
 	</members>
 </doc>
+=======
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>UnityEditor.iOS.Extensions</name>
+	</assembly>
+	<members>
+		<member name="T:UnityEditor.iOS.DeviceType">
+			<summary>Enumeration for SystemInfo.deviceType, denotes a coarse grouping of kinds of devices.</summary>
+		</member>
+	</members>
+</doc>
+>>>>>>> 22e297659be4c74786c7599e41b707305381885f

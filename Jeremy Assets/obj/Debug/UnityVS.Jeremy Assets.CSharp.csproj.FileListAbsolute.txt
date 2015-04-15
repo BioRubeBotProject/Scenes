@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
 C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
 C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
@@ -30,3 +31,20 @@ C:\Users\jyparker\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy 
 C:\Users\jyparker\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\UnityVS.Jeremy Assets.CSharp.csprojResolveAssemblyReference.cache
 C:\Users\jyparker\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\Assembly-CSharp.dll
 C:\Users\jyparker\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\Assembly-CSharp.pdb
+=======
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\UnityVS.Jeremy Assets.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Pathfinding.JsonFx.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\Assembly-CSharp.dll
+C:\Users\Jeremy\Documents\School\Spring 2015\BioRubeBot Project\Scenes\Jeremy Assets\obj\Debug\Assembly-CSharp.pdb
+>>>>>>> 22e297659be4c74786c7599e41b707305381885f
